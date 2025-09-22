@@ -71,4 +71,4 @@ This project is a Power BI dashboard that analyzes TCS stock market data. It pro
 
 10.Screenshots / Demos
 
-*
+*Show what the dashboard looks like.Example:https://github.com/Pratik02131/TCS-Stock-Data-Analysis-Dashboard-Report-/blob/main/snapshot%20of%20the%20dashboard.png.png
